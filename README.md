@@ -15,5 +15,5 @@ Ans :-
 
 -> Output :-
 
-![pr6_1](https://github.com/AMANPATEL1108/MAD_Practical-6_21012011063/assets/108643338/ddb74ba0-79ed-4b1e-b829-91a7a6b590e0)
+
 ![001 mad pr 6](https://github.com/AMANPATEL1108/MAD_Practical-6_21012011063/assets/108643338/13fec0e8-8a7a-4d7c-91a7-3a5ac3a3cd30)
